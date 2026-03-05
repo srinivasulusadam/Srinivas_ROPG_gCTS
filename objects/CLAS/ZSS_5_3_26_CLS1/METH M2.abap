@@ -1,3 +1,4 @@
 METHOD m2.
-"v4
+"v5 v4 v5
+"v5
 ENDMETHOD.
