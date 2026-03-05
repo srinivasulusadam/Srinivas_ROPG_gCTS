@@ -6,4 +6,4 @@ CLASS zss_5_3_26_cls1 DEFINITION
 
   PUBLIC SECTION.
     CLASS-DATA: gv_tes2 TYPE int2.
-    METHODS: m1.
+    METHODS: m2, m1.
