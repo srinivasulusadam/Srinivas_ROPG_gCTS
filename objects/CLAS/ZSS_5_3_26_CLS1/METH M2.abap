@@ -1,0 +1,3 @@
+METHOD m2.
+"v4
+ENDMETHOD.
