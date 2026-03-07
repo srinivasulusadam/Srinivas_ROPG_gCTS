@@ -2,5 +2,6 @@
 *"* definitions, interfaces or type declarations) you need for
 *"* components in the private section
 
-"V1 V2
-"V2
+"V1 V2 V3
+"V2 V3
+"V3
